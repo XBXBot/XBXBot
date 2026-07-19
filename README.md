@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4B0082,8A2BE2,7B68EE,9370DB&height=250&section=header&text=XBXBot&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20%7C%20Cybersecurity%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4B0082,8A2BE2,7B68EE,9370DB&height=250&section=header&text=XBXBot&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20%7C%20Cybersecurity%20%7C%20Developer&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Systems;Exploring+Cybersecurity+Vulnerabilities;Passionate+about+Automation+and+Code;Always+Learning%2C+Always+Building" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Exploring+Cybersecurity;Passionate+about+Automation+and+Code;Mission%3A+Creating+My+Own+AI" alt="Typing Animation" />
 
 <br/>
 
@@ -25,11 +25,11 @@
 
 ## About Me
 
-Passionate about the intersection of **Artificial Intelligence** and **Cybersecurity**. As a self-taught developer and polymath, I enjoy exploring how systems work, how to secure them, and how AI can automate complex tasks.
+Passionate about the intersection of **Artificial Intelligence** and **Cybersecurity**. As a self-taught developer and polymath, I enjoy exploring how systems work, how to secure them, and how automation can solve complex challenges.
 
-I primarily develop in **Python**, **JavaScript**, and utilize **JSON** for complex data structures. My approach is rooted in real-world problem-solving and constant technical exploration. I am currently looking to apply my expertise to ambitious projects within the AI industry.
+My current major ambition and ultimate goal is to **build and train my own custom Artificial Intelligence**. I am constantly learning, exploring new technical concepts, and coding everyday to turn this vision into reality.
 
-**Open To:** AI project collaborations, Full-Stack development missions, and professional opportunities in the AI field.
+**Open To:** AI roles, professional opportunities in the tech industry, and tackling complex technical challenges.
 
 <br/>
 
@@ -39,19 +39,8 @@ I primarily develop in **Python**, **JavaScript**, and utilize **JSON** for comp
 
 <div align="center">
 
-#### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,json,bash,html,css&theme=dark" alt="Languages" />
-</a>
-
-#### AI & Data
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn&theme=dark" alt="AI Stack" />
-</a>
-
-#### Backend & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,git,docker,linux&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,html,js,git&theme=dark" alt="Languages and Tools" />
 </a>
 
 </div>
@@ -60,31 +49,53 @@ I primarily develop in **Python**, **JavaScript**, and utilize **JSON** for comp
 
 ---
 
-## AI & Cybersecurity Interests
+## Areas of Interest
 
 | Domain | Focus | Details |
 | :--- | :--- | :--- |
-| **Artificial Intelligence** | Generative AI / Automation | LLMs, Data processing, Model integration |
-| **Cybersecurity** | Penetration Testing | Vulnerability research, System hardening, Scripting |
-| **Backend Dev** | API & Automation | Scripting for efficiency, Data parsing |
+| **Artificial Intelligence** | Custom AI Development | Machine Learning concepts, Logic building, Automation |
+| **Cybersecurity** | Offensive Security | System exploration, Scripting, Vulnerability research |
+| **Development** | Clean Code | Writing efficient Python scripts and JavaScript applications |
 
 <br/>
 
 ---
 
-## Projects & Journey
+## Featured Projects
 
 <details>
-<summary><b>Currently Exploring: AI Automation Pipelines</b></summary>
+<summary><b>Project 1: Custom AI Architecture (In Progress)</b></summary>
 <br/>
-Developing Python-based automation tools to streamline data management and interaction with AI models.
+
+Research and development phase for building a custom Artificial Intelligence from scratch, focusing on core logic and data processing.
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | Python |
+| **Status** | Research & Prototyping |
+| **Goal** | Understand neural architectures and model training methodologies |
+| **Impact** | Building foundational knowledge to create a fully custom AI |
+| **Repository** | *Coming Soon* |
+
+*Professional Context:* This ongoing project represents my long-term goal of engineering a personalized AI system. Currently focusing on the underlying mathematics, logic algorithms, and data parsing scripts required to feed intelligent systems.
 <br/>
 </details>
 
 <details>
-<summary><b>Cybersecurity Lab Environment</b></summary>
+<summary><b>Project 2: Security & Automation Lab</b></summary>
 <br/>
-Conducting experiments in isolated environments to test application security and Linux system hardening.
+
+A collection of utility scripts designed to automate system tasks and explore basic cybersecurity vulnerabilities in controlled environments.
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | Python, JavaScript, Git |
+| **Status** | Active Development |
+| **Goal** | Improve workflow efficiency and understand system defense mechanisms |
+| **Impact** | Automated repetitive data handling tasks and hardened basic system security |
+| **Repository** | *Coming Soon* |
+
+*Professional Context:* Combining my interests in automation and cybersecurity to write functional code that solves immediate, practical problems while exploring offensive security techniques.
 <br/>
 </details>
 
@@ -109,14 +120,13 @@ Conducting experiments in isolated environments to test application security and
 
 ```yaml
 learning:
-  - Deep Learning architectures (Transformers)
-  - Offensive Security techniques
-  - Advanced Python automation patterns
+  - Foundational logic and architecture for AI
+  - Advanced Python programming
+  - Cybersecurity fundamentals
 building:
-  - Utility scripts for data manipulation
-  - AI-powered personal assistants
+  - Blueprints and core logic for my own custom AI
 exploring:
-  - Integration of LLMs in security workflows
+  - How complex AI models process and handle data
 open_to:
   - AI engineering roles
-  - Technical challenges
+  - Mentorship in AI development
